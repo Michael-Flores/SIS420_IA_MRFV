@@ -1,0 +1,4 @@
+DECRIPCION DEL DATASET
+el dataset que me toco utilizar el de precios de coches viejos
+en el cual tube que eliminar el nombre ya que era un dato con 
+valores unicos yy haci solo travajar con un n=8 y un m=5512
