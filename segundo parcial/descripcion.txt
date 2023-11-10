@@ -1,0 +1,8 @@
+1.-la funcionalidad es de entrenar un agente para que este 
+sepa cuando regar poco, mucho o no regar los cultivos 
+segun la umedad del suelo dandole recompensa para el 
+aprendizage y eliga la mejor opcion
+2.- los elementos utilizados son  la tabla qtable donde 
+almacenamos los pares de estados usando yn dicionario de numpy
+y el factor de descuento gama para determinar importancias de
+ recompensas futuras , Q-learning para actualizar los valores.
